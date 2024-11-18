@@ -1,0 +1,12 @@
+a {
+  color: white;
+}
+a:hover {
+  color: #007bff; /* Blue color on hover */
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Hover effect for articles and sections */
+article:hover {
+  background-color:green 
+}
